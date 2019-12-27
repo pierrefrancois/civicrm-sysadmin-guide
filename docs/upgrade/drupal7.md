@@ -77,7 +77,7 @@ Choose one of the following methods:
 * Or, point your web browser to the following URL and follow the on-screen instructions.
    
     ```
-    http://example.org/civicrm/upgrade?reset=1
+    http://example.org/index.php?q=civicrm/upgrade&reset=1
     ```
    
 * Or, run the following `cv` command from within your site:
